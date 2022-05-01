@@ -28,7 +28,7 @@ last_modified_at: 2022-05-02 01:41
 - 이 페이지를 요약하자면 `{{ page.excerpt }}`입니다.
 
 ### To-Do List
-[x] Lab9
+[x] Lab9   
 [ ] Team Project
 
 ### Image
