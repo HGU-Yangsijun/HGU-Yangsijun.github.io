@@ -12,12 +12,12 @@ tags:
 
   - Blog
 
-last_modified_at: 2022-05-02 01:39
+last_modified_at: 2022-05-02 01:41
 
 ---
 
 # Github.io Blog
-
+--------
 ## Markdown
 글작성하기 위해 마크다운을 공부해서 
 좋은 글들을 작성해 보겠습니다.
@@ -29,7 +29,7 @@ last_modified_at: 2022-05-02 01:39
 
 ### To-Do List
 [x] Lab9
-[x] Team Project
+[ ] Team Project
 
 ### Image
 ![image1](https://cdn.pixabay.com/photo/2022/01/22/16/54/book-6957870_1280.jpg)
